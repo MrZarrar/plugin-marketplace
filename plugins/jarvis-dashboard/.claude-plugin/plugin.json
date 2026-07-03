@@ -1,0 +1,13 @@
+{
+  "name": "jarvis-dashboard",
+  "displayName": "Jarvis Dashboard",
+  "description": "Commands to launch and manage the local Jarvis Dashboard, a Jarvis-style HUD reskin of the Claude Code Agent Monitor.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Mushaf Zarrar",
+    "email": "m.mushafzarrar@gmail.com"
+  },
+  "repository": "https://github.com/MrZarrar/Jarvis-Sub-Agent-Dashboard",
+  "license": "MIT",
+  "keywords": ["dashboard", "monitoring", "agents", "observability", "hud"]
+}

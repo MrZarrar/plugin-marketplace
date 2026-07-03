@@ -1,0 +1,39 @@
+{
+  "name": "mushafzarrar-plugins",
+  "owner": {
+    "name": "Mushaf Zarrar",
+    "email": "m.mushafzarrar@gmail.com"
+  },
+  "description": "Personal marketplace for Mushaf Zarrar's Claude Code plugins.",
+  "plugins": [
+    {
+      "name": "lie-detector",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/MrZarrar/lie-detector.git"
+      },
+      "description": "Verifies that an AI coding agent's self-reported summary matches its actual git diff. Deterministic ground-truth changelog + fresh-subagent claim verification.",
+      "category": "verification",
+      "tags": [
+        "verification",
+        "git",
+        "changelog",
+        "agents",
+        "code-review",
+        "trust"
+      ]
+    },
+    {
+      "name": "jarvis-dashboard",
+      "source": "./plugins/jarvis-dashboard",
+      "description": "Launch and manage the Jarvis Dashboard, a local Claude Code agent-monitoring HUD, from within Claude Code.",
+      "category": "productivity",
+      "tags": [
+        "dashboard",
+        "monitoring",
+        "agents",
+        "observability"
+      ]
+    }
+  ]
+}
