@@ -2,7 +2,7 @@
   "name": "jarvis-dashboard",
   "displayName": "Jarvis Dashboard",
   "description": "Commands to launch and manage the local Jarvis Dashboard, a Jarvis-style HUD reskin of the Claude Code Agent Monitor.",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "author": {
     "name": "Mushaf Zarrar",
     "email": "m.mushafzarrar@gmail.com"
